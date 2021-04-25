@@ -1,13 +1,8 @@
-<!-- [![Braydon's GitHub Banner](./assets/content_code_stream.jpg)]() -->
-
-<img style="text-align:center" src="./assets/content_code_stream.jpg">
-
-### Hi there 👋
-
 <!-- header(picture of name) -->
 
 <!-- about me -->
-## I'm a beginner front-end developer
+### Всем привет 👋
+Меня зовут Кирилл. Я начинающий front-end разработчик. 
 
 <!-- languages and tools -->
 <!-- <img alt="HTML5" src="https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
@@ -39,18 +34,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div style="display:flex">
-<div>
-<img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark">
-</div>
+<!-- <div style="display:flex"> -->
+<a>
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark">
+</a>
 
-<div>
-<img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=3&theme=vision-friendly-dark">
-</div>
+<a>
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=3&theme=vision-friendly-dark">
+</a>
 </div>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=koshmar1319)
+
+
 <!--
 **koshmar1319/koshmar1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
