@@ -6,8 +6,15 @@
 ## I'm a beginner front-end developer
 
 <!-- languages and tools -->
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=0f0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=0f0)
+
+
 
 <!-- follow me -->
+
+
+
 
 <!--
 **koshmar1319/koshmar1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
