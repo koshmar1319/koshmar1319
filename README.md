@@ -7,19 +7,12 @@
 
 <!-- languages and tools -->
 <img alt="HTML5" src="https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-
 <img alt="CSS3" src="https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6"/>
-
 <img alt="SASS" src="https://img.shields.io/badge/SASS-000?&style=for-the-badge&logo=SASS&logoColor=hotpink"/>
-
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-000?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-000?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9"/>
-
 <img alt="Git" src="https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=%23F05033"/>
-
 <img alt="Figma" src="https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E"/>
-
 <img alt="VS Code" src="https://img.shields.io/badge/VSCode-000?&style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
 
 
