@@ -12,7 +12,8 @@
 
 
 <!-- follow me -->
-
+## Follow me
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=f0f)](https://twitter.com/koshmar1319)
 
 
 
