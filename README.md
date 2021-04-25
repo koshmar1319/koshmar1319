@@ -37,11 +37,11 @@
 
 <div style="display:flex; align-items:center;">
 <div>
-<img align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark">
+<img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark">
 </div>
 
 <div>
-<img align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=3&theme=vision-friendly-dark">
+<img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=3&theme=vision-friendly-dark">
 </div>
 </div>
 
