@@ -1,3 +1,7 @@
+<!-- [![Braydon's GitHub Banner](./assets/content_code_stream.jpg)]() -->
+
+<img style="text-align:center" src="./assets/content_code_stream.jpg">
+
 ### Hi there 👋
 
 <!-- header(picture of name) -->
