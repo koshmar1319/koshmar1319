@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshmar1319&langs_count=5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div style="display:flex; align-items:center;">
+<div style="display:flex">
 <div>
 <img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark">
 </div>
