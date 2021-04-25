@@ -7,7 +7,7 @@
 <!-- languages and tools -->
 <hr>
 
-## <img src="./assets/settings.svg" style="width:24px;height:20px" /> Мой стек технологий
+## Мой стек технологий
 
 ![HTML5](https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6)
@@ -21,7 +21,7 @@
 <!-- follow me -->
 <hr>
 
-## <img src="./assets/envelope.svg" style="width:24px;height:20px" /> Мои контакты
+## Мои контакты
 [![Twitter](https://img.shields.io/badge/-Twitter-000??style=plastic&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/koshmar1319)
 
 
