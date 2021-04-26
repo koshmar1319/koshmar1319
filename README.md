@@ -24,7 +24,9 @@
 ## Мои контакты
 [![Twitter](https://img.shields.io/badge/-Twitter-000??style=plastic&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/koshmar1319)
 
+<hr>
 
+## Моя статистика
 <a href="https://github.com/koshmar1319/github-readme-stats">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark"/>
 </a>
