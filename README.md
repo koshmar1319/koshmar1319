@@ -8,7 +8,7 @@
 <!-- languages and tools -->
 <hr>
 
-## Мой стек технологий
+## :wrench: Мой стек технологий
 
 ![HTML5](https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6)
@@ -26,12 +26,12 @@
 <!-- follow me -->
 <hr>
 
-## Мои контакты
+## :memo: Мои контакты
 [![Twitter](https://img.shields.io/badge/-Twitter-000??style=plastic&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/koshmar1319) [![Facebook](https://img.shields.io/badge/-Facebook-000??style=plastic&logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/kirill.komarkov.52)
 
 <hr>
 
-## Моя статистика
+## :chart_with_upwards_trend: Моя статистика
 <a href="https://github.com/koshmar1319/github-readme-stats">
 <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=koshmar1319&show_icons=true&theme=vision-friendly-dark"/>
 </a>
