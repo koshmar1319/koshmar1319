@@ -27,7 +27,7 @@
 <hr>
 
 ## :memo: Мои контакты
-[![Twitter](https://img.shields.io/badge/-Twitter-000??style=plastic&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/koshmar1319) [![Facebook](https://img.shields.io/badge/-Facebook-000??style=plastic&logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/kirill.komarkov.52)
+[![Twitter](https://img.shields.io/badge/-Twitter-000??style=plastic&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/koshmar1319) [![Facebook](https://img.shields.io/badge/-Facebook-000??style=plastic&logo=Facebook&logoColor=%231877F2)](https://www.facebook.com/kirill.komarkov.52) [![Telegram](https://img.shields.io/badge/Telegram-000??style=plastic&logo=telegram&logoColor=%231877F2)](https://t.me/koshmar1319)
 
 <hr>
 
