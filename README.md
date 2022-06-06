@@ -1,5 +1,7 @@
 <!-- header(picture of name) -->
 
+![](https://komarev.com/ghpvc/?username=koshmar1319)
+
 <!-- about me -->
 ### Всем привет 👋
 Меня зовут Кирилл. Я начинающий Front-end разработчик. Проходил курсы по веб-разработке в
@@ -16,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-000?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Gulp](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=%23CF4647)
 ![Webpack](https://img.shields.io/badge/webpack-000?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+<br/>
 ![Git](https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E)
