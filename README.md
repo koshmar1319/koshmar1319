@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=koshmar1319)
 
-<kbd> <img width="900" height="auto" align="center" alt="Баннер" src="./readme_banner.jpg"> </kbd>
+<!-- <kbd> <img width="900" height="auto" align="center" alt="Баннер" src="./readme_banner.jpg"> </kbd> -->
 
 <!-- about me -->
 ### Всем привет 👋
