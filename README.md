@@ -19,11 +19,11 @@
 ![HTML5](https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-000?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-000?&style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Webpack](https://img.shields.io/badge/webpack-000?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Git](https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-000?&style=for-the-badge&logo=node.js&logoColor=6DA55F)
 
 <details>
   <summary>Дополнительные</summary>
