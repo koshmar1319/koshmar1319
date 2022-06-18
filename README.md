@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-000?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Webpack](https://img.shields.io/badge/webpack-000?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
-<br/>
 ![Git](https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,7 +28,7 @@
 <details>
   <summary>Дополнительные</summary>
   <br/>
-  
+
   ![SASS](https://img.shields.io/badge/SASS-000?&style=for-the-badge&logo=SASS&logoColor=hotpink)
   ![Gulp](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=%23CF4647)
   ![Figma](https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E)
