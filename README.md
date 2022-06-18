@@ -14,20 +14,27 @@
 
 ## :wrench: Мой стек технологий
 
+Основные
+
 ![HTML5](https://img.shields.io/badge/html5-000?&style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-000?&style=for-the-badge&logo=css3&logoColor=%231572B6)
-![SASS](https://img.shields.io/badge/SASS-000?&style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![JavaScript](https://img.shields.io/badge/javascript-000?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Gulp](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=%23CF4647)
 ![Webpack](https://img.shields.io/badge/webpack-000?&style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 <br/>
 ![Git](https://img.shields.io/badge/git-000?&style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![VSCode](https://img.shields.io/badge/VSCode-000?&style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![React](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-000?&style=for-the-badge&logo=node.js&logoColor=6DA55F)
 
+<details>
+  <summary>Дополнительные</summary>
+
+  ![SASS](https://img.shields.io/badge/SASS-000?&style=for-the-badge&logo=SASS&logoColor=hotpink)
+  ![Gulp](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=%23CF4647)
+  ![Figma](https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+  ![VSCode](https://img.shields.io/badge/VSCode-000?&style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+
+</details>
 <!-- follow me -->
 <hr>
 
