@@ -28,7 +28,8 @@
 
 <details>
   <summary>Дополнительные</summary>
-
+  <br/>
+  
   ![SASS](https://img.shields.io/badge/SASS-000?&style=for-the-badge&logo=SASS&logoColor=hotpink)
   ![Gulp](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=%23CF4647)
   ![Figma](https://img.shields.io/badge/figma-000?&style=for-the-badge&logo=figma&logoColor=%23F24E1E)
